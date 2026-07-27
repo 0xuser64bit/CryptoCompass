@@ -17,7 +17,7 @@ Crypto Compass is a web application that allows users to manage their crypto wal
 ## Install Locally
 
 ```bash
-git clone https://github.com/user-64bit/CryptoCompass.git && cd CryptoCompass && bun install && bun run dev
+git clone https://github.com/0xuser64bit/CryptoCompass.git && cd CryptoCompass && bun install && bun run dev
 ```
 
 ```bash

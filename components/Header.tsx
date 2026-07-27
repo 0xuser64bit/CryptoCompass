@@ -41,7 +41,7 @@ export const Header = ({ image, email }: HeaderProps) => {
       <DropdownMenu>
         <DropdownMenuTrigger asChild>
           <Avatar className="h-14 w-14 cursor-pointer">
-            <AvatarImage src={image} alt="@user-64bit" />
+            <AvatarImage src={image} alt="@0xuser64bit" />
             <AvatarFallback>CC</AvatarFallback>
           </Avatar>
         </DropdownMenuTrigger>
